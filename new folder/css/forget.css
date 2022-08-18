@@ -1,0 +1,72 @@
+/* universal selector */
+*{
+margin: 0;
+border: 0;
+padding: 0;
+}
+body {
+    background-color: gainsboro;
+}
+#admin-box {
+background-color: cornflowerblue;
+color: black;
+width: 50%;
+margin: 5% auto;
+padding: 20px;
+border-radius: 10px;
+text-align: center;
+}
+.admin-img{
+width: 150px;
+}
+#admin-box h1{
+font-size: 35px;
+text-transform: uppercase;
+}
+input,label{
+display: block;
+width: 80%;
+margin: auto;
+padding: 10px;
+}
+input{
+
+background-color: transparent;
+margin: auto;
+border: 1px solid black;
+border-radius: 10px;
+}
+label{
+font-size: 20px;
+}
+p{
+font-size: 20px;
+}
+p a{
+color: blue;
+text-transform: capitalize;
+text-decoration: none;
+}
+input[type="submit"]{
+background-color: aqua;
+margin: 20px auto;
+border: 1px solid black;
+width: 25%;
+transition: ease-in-out 0.7s;
+text-transform: capitalize;
+    }
+    input[type="submit"]:hover{
+background-color: transparent;
+
+margin: 20px auto;
+border: 1px solid black;
+width: 25%;
+    }
+input:focus{
+background-color: white;
+
+}
+input::placeholder{
+    color: black;
+    text-decoration: none;
+}

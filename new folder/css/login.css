@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* name selector */
+body {
+background-color: azure;
+}
+#admin-box {
+background-color: palegreen;
+color: black;
+text-align: center;
+width: 50%;
+margin: 5% auto;
+padding: 20px;
+border-radius: 10px;
+}
+/* class selector */
+.admin-img {
+width: 150px;
+}
+/* decendent selector */
+#admin-box h1 {
+font-size: 25px;
+text-transform: uppercase;
+}
+input,label {
+display: block;
+width: 90%;
+margin: auto;
+padding: 10px;
+}
+input{
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 10px;
+}
+label{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    }
+p a input {
+
+color: blue;
+text-transform: capitalize;
+}
+input[type="submit"]{
+background-color: cornflowerblue;
+margin: 20px auto;
+border: 1px solid black;
+width: 25%;
+transition: ease-in-out 0.7s;
+text-transform: capitalize;
+}
+input[type="submit"]:hover{
+background-color: transparent;
+margin: 20px auto;
+border: 1px solid black;
+width: 25%;
+}
+input:focus{
+background-color: white;
+}
+input::placeholder{
+    color: black;
+}
+a{
+    
+    margin: 20px auto;
+    
+    
+    color: blue;
+    
+    text-transform: capitalize;
+}
+a:hover{
+    
+    margin: 20px auto;  
+    
+    color: blue;     text-transform: capitalize;}
+    a{
+        text-decoration: none;
+    }
