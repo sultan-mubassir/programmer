@@ -1,0 +1,443 @@
+@media (max-width:600px) {
+    *{
+        margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+    
+    }
+    .col-m-1 {
+        width: 8.33%;
+        float: left;
+    }
+    .col-m-2 {
+        width: 16.66%;
+        float: left;
+    }
+    .col-m-3 {
+        width: 25%;
+        float: left;
+    }
+    .col-m-4 {
+        width: 33.33%;
+        float: left;
+    }
+    .col-m-5 {
+        width: 41.66%;
+        float: left;
+    }
+    .col-m-6 {
+        width: 50%;
+        float: left;
+    
+    }
+    .col-m-7 {
+        float: left;
+        width: 58.33%;
+    }
+    .col-m-8 {
+        float: left;
+        width: 66.66%;
+    }
+    .col-m-9 {
+        float: left;
+        width: 75%;
+    }
+    .col-m-10 {
+        float: left;
+        width: 83.33%;
+    }
+    .col-m-11{ 
+        float: left;
+        width: 91.66%;
+    }
+    .col-m-12 {
+        float: left;
+        width: 100%;
+    }
+    .meno-part{
+        text-align: center;
+    }
+    .btn-part button{
+        /*! width:100; */
+        text-align: center;
+        padding: 10px;
+        position: absolute;
+        top: 15px;
+        right: 30px;
+        padding: 5px;
+    }
+    #header{
+        background-color: #223047;
+        color: #ffffff;
+        height: 840px;
+    }
+    .container{
+        width: 90%;
+        margin: auto;
+    }
+    .hero-writting-part h1{
+        font-size: 25px;
+        font-weight: 500;
+        text-align: justify;
+        margin: 80px 40px 20px 40px;
+        padding: 10px;
+    }
+    .hero-writting-part p{
+        font-size: 15px;
+        text-align: justify;
+        margin: 0px 40px 20px 40px;
+        padding: 10px;
+    }
+    .hero-writting-part a button{
+        font-size: 12px;
+        font-weight: 200;
+        background-color: aqua;
+        padding: 3px;
+        border-radius: 5px;
+        border: 1px solid #ffffff;
+        text-transform: capitalize;
+        
+        
+    }
+    .btn-1{
+        margin: 0px 10px 0px 50px;
+    }
+    .hero-image-part img{
+        height: 350px;
+        text-align: center;
+        margin-top: 0px;
+        
+    }
+    #service{
+        color: #223047;
+        height: 1100px;
+    }
+    .global-heading{
+        margin: 150px 30px 20px 30px;
+        font-size: 25px;
+        font-weight: 500;text-align: center;
+    }
+    .service-part h3{
+        text-align: center;
+        margin: 20px 20px;
+    }
+    .service-part img{
+        margin: 0px 60px 0px 45px;
+    }
+    #company{
+        background-color: #f5f6fa;
+        height: 800px;
+    }
+    .company-part-2 h4{
+        font-size: 25px;
+        text-align: justify;
+        margin: 100px 80px 20px 80px;
+    }
+    .company-part-2 p{
+        font-size: 13px;
+        text-align: justify;
+        margin: 50px 80px 20px 80px;
+    }
+    .writting-top-part{
+        height: 700px;
+    }
+    .top-part h3{
+        font-size: 25px;
+        text-align: center;
+        margin: 80px 30px 30px 0px;
+        text-transform: capitalize;
+    }
+    .top-part p{
+        font-size: 15px;
+        text-align: center;
+        margin: 0px 30px 30px 0px;
+        }
+        .top-part button{
+            font-size: 20px;
+            text-align: center;
+            margin: 0px 70px 30px 100px;
+            text-transform: capitalize;
+            padding: 5px;
+            border-radius: 5px;
+            background-color: aqua;
+            color: #223047;
+        }
+        .top-part img{
+            height: 200px;
+            margin: 80px 10px 0px 40px;
+        }
+        .writting-mid-part{
+            height: 950px;
+            background-color: #f5f6fa;
+        }
+        .mid-part-imag img{
+            height: 350px;
+            margin: 0px 10px 0px 60px;
+        }
+        .mid-of-part-1{
+            margin: 0px 180px 10px 40px;
+        }
+        .mid-of-part-2{
+            margin: 0px 180px 10px 40px;
+        }
+        .writting-btm-part{
+            height: 750px;
+            margin-top: 40px;
+            color: black;
+        }
+        .btm-part h3{
+            font-size: 25px;
+            text-align: center;
+            margin: 80px 30px 30px 0px;
+            text-transform: capitalize;
+        }
+        .btm-part ul{
+            font-size: 17px;
+            text-align: center;
+            margin: 0px 30px 30px 0px;
+                    color: black;
+        }
+        .btm-part p{
+            font-size: 15px;
+            text-align: justify;
+            margin: 0px 30px 50px 20px;
+        }
+        .btm-of-part-1 img{
+            height: 350px;
+            width: 140px;
+            margin-left: 23px;
+            margin-top: 60px;
+            
+        }
+        .btm-of-part-2 img{
+            height: 280px;
+            width: 80px;
+            margin-left: 56px;
+            margin-top: 140px;
+            }
+            .btm-of-part-3 img{
+                height: 250px;
+                width: 80px;
+                margin-left: 50px;
+                margin-top: 160px;
+                }
+                .video-part img{
+                    margin: 120px 50px 30px 170px;
+                    width: 50px;
+                    
+                }
+                .video-part h3{
+                    font-size: 25px;
+                    text-align: center;
+                    margin-bottom: 50px;
+                    color: #ffffff;
+                }
+                .video-part p{
+                    font-size: 15px;
+                    text-align: center;
+                    margin-bottom: 70px;
+                    color: #ffffff;
+                }
+                .download-part h3{
+                    font-size: 25px;
+                    text-align: center;
+                    margin: 100px 40px 0px 40px;
+                    margin-bottom: 30px;
+                }
+                .download-part a button{
+                    width: 40%;
+                    margin: auto;
+                    font-size: 17px;
+                    font-weight: 200;
+            background-color: aqua;
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid #223047;
+            text-transform: capitalize;
+            margin-left: 120px;
+            margin-top: 40px;
+            transition: ease-in-out 0.7s;
+                }
+                .quoto-part p{
+                    font-size: 15px;
+                    text-align: center;
+                    margin-top: 100px;
+                    margin-bottom: 100px;
+                }
+                #add{
+                    background-color: #f5f6fa;
+                    color: #223047;
+                    height: 775px;
+                    
+                }
+                .add-part-1 img{
+                    height: 300px;
+                    width: 150px;
+                    margin-left: 72px;
+                    margin-top: 0px;
+                }
+                .add-part-2 img{
+                    height: 200px;
+                    width: 120px;
+                    margin-right: 120px;
+                    margin-top: 80px;
+                }
+                .add-part h3{
+                    font-size: 25px;
+                    text-align: center;
+                    margin-bottom: 30px;
+                    margin-top: 40px;
+                }
+                .add-part p{
+                    font-size: 15px;
+                    text-align: justify;
+                    margin-top: 0px;
+                    margin-bottom: 50px;
+                }
+                .btn-add-part a button{
+                    width: 50%;
+                    margin: auto;
+                    font-size: 17px;
+                    font-weight: 200;
+            background-color: aqua;
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid #223047;
+            text-transform: capitalize;
+            margin-left: 100px;
+            margin-top: 100px;
+            transition: ease-in-out 0.7s;
+                }
+                #finis{
+                    height: 530px;
+                }
+            
+            .finis-part h4{
+                font-size: 10px;
+                text-align: center;
+                margin-left: 10px;
+                margin-bottom: 30px;
+            }
+            .finis-part li{
+                font-size: 10px;
+                font-weight: 300;
+                color: #ffffff;
+                text-align: justify;
+                margin-left: 20px;
+                display: flex;
+                margin-bottom: 10px;
+            }
+            .writting-finis-part h2{
+                font-size: 22px;
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            .writting-finis-part p{
+                font-size: 15px;
+                text-align: center;
+                margin-bottom: 50px;
+                margin: 0px 40px 50px 40px;
+            }
+            .Your-Email{
+                width: 50%;float: left;
+                padding: 5px;
+                background-color: #223047;
+                color: #223047;margin-bottom: 60px;
+                margin-left: 40px;
+                text-transform: uppercase;
+            }
+            #btn{
+                width: 30%;
+                float: left;
+                padding: 5px;
+                background-color: aqua;
+                color: #223047;
+                text-transform: uppercase;
+            }
+            .writting-fotter-part{
+                padding: 10px;
+                font-size: 12px;
+            }
+            .box-fotter-part{
+                text-align: right;
+                padding: 0px;
+            }
+            .box-fotter-part i{
+                color: #ffffff;
+                padding: 15px 5px;
+            }
+            }
+            
+
+
+@media (min-width:601px) and (max-width:800px) {
+    *{
+        margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+    
+    }
+    .col-1 {
+        width: 8.33%;
+        float: left;
+    }
+    .col-2 {
+        width: 16.66%;
+        float: left;
+    }
+    .col-3 {
+        width: 25%;
+        float: left;
+    }
+    .col-4 {
+        width: 33.33%;
+        float: left;
+    }
+    .col-5 {
+        width: 41.66%;
+        float: left;
+    }
+    .col-6 {
+        width: 50%;
+        float: left;
+    
+    }
+    .col-7 {
+        float: left;
+        width: 58.33%;
+    }
+    .col-8 {
+        float: left;
+        width: 66.66%;
+    }
+    .col-9 {
+        float: left;
+        width: 75%;
+    }
+    .col-10 {
+        float: left;
+        width: 83.33%;
+    }
+    .col-11{ 
+        float: left;
+        width: 91.66%;
+    }
+    .col-12 {
+        float: left;
+        width: 100%;
+    }
+}
+@media (min-width:801px) and (max-width:1000px) {
+
+}
+@media (min-width:1001px) and (max-width:1200px) {
+    
+}
